@@ -1,0 +1,3 @@
+[submodule "udemy-scala-beginners"]
+	path = udemy-scala-beginners
+	url = https://github.com/rockthejvm/udemy-scala-beginners.git
