@@ -18,11 +18,13 @@ sbt
 Manually compile or tell SBT to auto-compile on file change.
 
 ```zsh
+# compile
 compile
+# auto-compile
 ~compile
 ```
 
-Run compiled programs by running `run`.
+Run compiled programs with `run`.
 
 ```zsh
 run
