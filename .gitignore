@@ -1,1 +1,25 @@
+# sbt
+cache
+.history
+.lib/
+dist/*
 target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+**/.bloop
+.bsp/
+
+# metals
+.metals/
+.ammonite/
+metals.sbt
+metals/project/
+project/metals.sbt
+
+# coursier
+coursier
+
+# scala cli
+.scala-build/
