@@ -5,7 +5,9 @@ Notes on Scala and Functional Programming revision.
 ## Requirements
 
 1. Java
-2. [Simple Build Tool (SBT)](https://github.com/sbt/sbt/)
+2. Scala 3
+3. [Simple Build Tool (SBT)](https://github.com/sbt/sbt/)
+4. NVIM w. nvim-metals
 
 ## Basic Usage
 
