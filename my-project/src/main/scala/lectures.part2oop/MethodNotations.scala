@@ -54,8 +54,8 @@ object MethodNotations extends App {
   println(mary.unary_!) // equivalent
 
   // Postfix notation (syntatic sugar)
-  // Rarely used in practice because the only difference is the "." and spaces
-  // can introduce unexpected errors
+  // !IMPORTANT!: Rarely used in practice because the only difference is the "." 
+  // and spaces can introduce unexpected errors
   println(mary.isAlive)
   println(mary isAlive) // equivalent
 
